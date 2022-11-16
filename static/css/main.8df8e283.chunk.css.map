@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,OACI,UAAW,CACX,gBAAiB,CACjB,kBAAmB,CACnB,qCACJ","file":"main.8df8e283.chunk.css","sourcesContent":[".image {\n    width: 90vw;\n    margin: 10px auto;\n    border-radius: 10px;\n    box-shadow: 0 0 10px rgba(39, 39, 39, 0.6);\n}"]}
